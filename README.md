@@ -1,5 +1,8 @@
 # vue-keyboard
 
+## Preview
+
+
 ## Project setup
 ```
 npm install
