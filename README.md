@@ -2,7 +2,7 @@
 
 [Preview](https://joy-stacks.github.io/vue-keyboard/docs)
 
-
+![https://joy-stacks.github.io/vue-keyboard/docs/preview.png](https://joy-stacks.github.io/vue-keyboard/docs/preview.png)
 
 ## Project setup
 
