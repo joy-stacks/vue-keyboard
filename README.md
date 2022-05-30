@@ -1,6 +1,6 @@
 # vue-keyboard
 
-[Preview]: https://joy-stacks.github.io/vue-keyboard/
+[Preview](https://joy-stacks.github.io/vue-keyboard/)
 
 
 
