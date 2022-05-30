@@ -1,6 +1,11 @@
 # vue-keyboard
 
+[Preview]: https://joy-stacks.github.io/vue-keyboard/
+
+
+
 ## Project setup
+
 ```
 npm install
 ```
