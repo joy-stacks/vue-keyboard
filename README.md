@@ -1,10 +1,5 @@
 # vue-keyboard
 
-## Preview
-
-![微信截图_20220527173103](D:\桌面\微信截图_20220527173103.png)
-
-
 ## Project setup
 ```
 npm install
